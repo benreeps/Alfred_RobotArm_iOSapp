@@ -1,23 +1,23 @@
-# Alfred (Prototype)
-<p align="left"><img src="https://github.com/benreeps/Alfred/blob/main/images/2016F174-7206-43BF-87ED-AF440F93A055.JPG" height="500" align="center"></p>
+# Alfred: 4 Axis Robotic Arm & iOS Application
 
-## 4 Axes Robotic arm & IOS Application
+![Alfred Robot](https://github.com/benreeps/Alfred/blob/main/images/2016F174-7206-43BF-87ED-AF440F93A055.JPG)
 
-Alfred is a functional 4 axes robotic arm, designed in fusion 360, powered by Arduino hardware and controlled via the Alfred iOS mobile application.
+## Overview
+Alfred is a pioneering 4-axis robotic arm, meticulously designed in Autodesk Fusion 360, and empowered by Arduino. It's controlled through a native iOS mobile application, showcasing the seamless integration of mechanical design and software engineering.
 
-<p align="left"><img src="https://github.com/benreeps/Alfred/blob/main/images/IMG_7151.jpeg" height="500" align="center"></p>
+![Alfred iOS App](https://github.com/benreeps/Alfred/blob/main/images/IMG_7151.jpeg)
 
 ## Features
+- **Precise Angular Movement**: Ensuring accurate and controlled motions.
+- **Vacuum Suction Control**: Innovative solution for object manipulation.
+- **iOS x BLE 4.0 Communication**: Effortless control through a dedicated app.
+- **Voltage Regulation**: Stable and safe power management.
+- **Angular Tracking**: Real-time position feedback for precise operations.
 
-- Precise angular movement 
-- Vacuum suction control 
-- iOS x BLE 4.0 communication 
-- Volatage regulation 
-- Angular tracking 
-
-<p align="left"><img src="https://github.com/benreeps/Alfred/blob/main/images/IMG_7545.PNG" height="500" align="center"></p>
+![Alfred Features](https://github.com/benreeps/Alfred/blob/main/images/IMG_7545.PNG)
 
 ## Hardware
+Alfred's strength lies in its hardware:
 - 4 Digital servo motors "rohs"
 - Adafruit Featherwing Relay switch
 - 5v Vacuum Pump & Solenoid valve
@@ -26,17 +26,17 @@ Alfred is a functional 4 axes robotic arm, designed in fusion 360, powered by Ar
 - Arduino Uno 
 - On/off switch 
 
-<p align="left"><img src="https://github.com/benreeps/Alfred/blob/main/images/IMG_7150.jpeg"></p>
+![Alfred Hardware](https://github.com/benreeps/Alfred/blob/main/images/IMG_7150.jpeg)
 
 ## Design 
+This project was inspired and designed with components from an Arduino Braccio servo robot kit. Shortly after assembling the kit, I decided to start designing my own robot in Autodesk Fusion 360. I had salvaged the digital servos, Arduino Uno and Braccio servo shield to be used for prototyping my own robot, Alfred. 
 
-This project was inspired and designed with components from an Arduino Braccio servo robot kit. 
+![Alfred Design](https://github.com/benreeps/Alfred/blob/main/images/IMG_7553.JPG)
+
+- 3D Printer (Ender 3 pro)
+- Filament (pla)
+![Alfred 3D Print](https://github.com/benreeps/Alfred/blob/main/images/IMG_7004.jpeg)
+
+## MIT License
 
 
-<p align="left"><img src="https://github.com/benreeps/Alfred/blob/main/images/IMG_7553.JPG"></p>
-
-Shortly after assebling the kit, I decided to start designing my own robot in Autodesk Fusion 360. I had salvaged the digital servos, Arduino Uno and Braccio servo shield to be used for prototyping my own robot, Alfred. 
-
-<p align="left"><img src="https://github.com/benreeps/Alfred/blob/main/images/IMG_7004.jpeg"></p>
-
-- 100% 3D Printed (pla) 
